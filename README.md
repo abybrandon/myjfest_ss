@@ -34,6 +34,7 @@ This section highlights the technologies used in building this application. Belo
 <p align="center">
   <img width="600" src="https://github.com/abybrandon/myjfest_ss/blob/main/iphones-341231.png">
 </p>
+
 ## Features
 * User Authentication
   - Secure login, registration, and OTP functionality.
