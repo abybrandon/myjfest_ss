@@ -16,14 +16,23 @@
 
 ## Screen Shot Apps
 <p align="center">
-  <img width="500" src="https://github.com/abybrandon/myjfest_ss/blob/main/iphones-34.png">
-  <img width="400" src="https://github.com/abybrandon/myjfest_ss/blob/main/cosutmeJpg.png">
+  <img width="600" src="https://github.com/abybrandon/myjfest_ss/blob/main/iphones-34.png">
 </p>
 
 <p align="center">
-  <img width="400" src="https://github.com/abybrandon/myjfest_ss/blob/main/iphones-3412.png">
-  <img width="400" src="https://github.com/abybrandon/myjfest_ss/blob/main/iphones-341231.png">
+  <img width="600" src="https://github.com/abybrandon/myjfest_ss/blob/main/cosutmeJpg.png">
 </p>
+
+
+  
+<p align="center">
+  <img width="600" src="https://github.com/abybrandon/myjfest_ss/blob/main/iphones-3412.png">
+</p>
+
+<p align="center">
+  <img width="600" src="https://github.com/abybrandon/myjfest_ss/blob/main/iphones-341231.png">
+</p>
+
 
 
 
