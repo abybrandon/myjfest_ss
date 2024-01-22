@@ -14,7 +14,18 @@
 
 ![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
 
-## Key Features
+## Screen Shot Apps
+<p align="center">
+  <img width="500" src="https://github.com/abybrandon/myjfest_ss/blob/main/iphones-34.png">
+  <img width="400" src="https://github.com/abybrandon/myjfest_ss/blob/main/cosutmeJpg.png">
+</p>
+
+<p align="center">
+  <img width="400" src="https://github.com/abybrandon/myjfest_ss/blob/main/iphones-3412.png">
+  <img width="400" src="https://github.com/abybrandon/myjfest_ss/blob/main/iphones-341231.png">
+</p>
+
+
 
 * LivePreview - Make changes, See changes
   - Instantly see what your Markdown documents look like in HTML as you create them.
