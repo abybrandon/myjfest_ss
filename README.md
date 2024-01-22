@@ -38,6 +38,7 @@ This section highlights the technologies used in building this application. Belo
 * Cross-platform
   - Windows, Ios
 * Responsive in any devices
+* Others
 
 ## Screen Shot Apps
 <p align="center">
