@@ -8,11 +8,9 @@ t
 </h1>
 
 <p align="center">
-  <a href="#Screen Shot App">Screenshot</a> •
+  <a href="#Screen Shot Apps">Screenshot</a> •
   <a href="https://play.google.com/store/apps/details?id=com.otakudreams.myjfest">Download</a>•
 </p>
-
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
 
 ## Screen Shot Apps
 <p align="center">
