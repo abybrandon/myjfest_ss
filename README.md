@@ -1,4 +1,4 @@
-
+t
 <h1 align="center">
   <br>
   <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://firebasestorage.googleapis.com/v0/b/eventku-d1719.appspot.com/o/uploads%2Flogo2.png?alt=media&token=dda15ec3-2541-42f7-80bb-601951b96687" alt="Markdownify" width="200"></a>
@@ -8,7 +8,7 @@
 </h1>
 
 <p align="center">
-  <a href="#key-features">Screenshot</a> •
+  <a href="#Screen Shot App">Screenshot</a> •
   <a href="https://play.google.com/store/apps/details?id=com.otakudreams.myjfest">Download</a>•
 </p>
 
