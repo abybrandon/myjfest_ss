@@ -27,8 +27,8 @@ This section highlights the technologies used in building this application. Belo
   - Secure login, registration, and OTP functionality.
 * Forgot Password
   - Reset password feature for user convenience.
-* Event Search
-  - Search for events based on proximity using latitude and longitude.
+* Event Filter
+  - Filter & Search for events based on proximity using latitude and longitude.
 * Hype Filter
   - Filter events based on popularity or hype.
 * Liked Events
@@ -52,7 +52,6 @@ This section highlights the technologies used in building this application. Belo
 <p align="center">
   <img width="600" src="https://github.com/abybrandon/myjfest_ss/blob/main/iphones-341231.png">
 </p>
-
 
 
 
