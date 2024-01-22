@@ -14,7 +14,7 @@ t
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+This section highlights the technologies used in building this application. Below are the key technologies employed:
 
 * [![Flutter][Flutter-shield]][Flutter-url]
 * [![Firebase][Firebase-shield]][Firebase-url]
